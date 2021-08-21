@@ -1,0 +1,25 @@
+/* button margin  */
+
+.memory,
+.storage,
+.delivery {
+    margin-top: 3%;
+}
+
+
+/* button background  */
+
+.memorycolor,
+.storagecolor,
+.deliverycolor {
+    background-color: white;
+}
+
+
+/* hover effect  */
+
+.memorycolor:hover,
+.storagecolor:hover,
+.deliverycolor:hover {
+    background-color: green;
+}
